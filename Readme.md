@@ -1,7 +1,7 @@
 # Личный проект «YetiCave»
 
 * Студент: [Dmitry Vinogradov](https://up.htmlacademy.ru/php/12/user/1328837).
-* Наставник: `Неизвестно`.
+* Наставник: Сергей Парфенов.
 
 ---
 
